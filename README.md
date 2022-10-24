@@ -1,4 +1,8 @@
-# 🎃 Algorithms 💻
+# Algorithms
+
+This repository contains the program for various algorithms
+
+## Hactoberberfest 2022
 
 Participate in Hacktoberfest and contribute to Open Source using this repository.
 We aim to help you get started in Open Source contribution by accepting your pull
