@@ -7,7 +7,7 @@ This repository contains the program for various algorithms
 Participate in Hacktoberfest and contribute to Open Source using this repository.
 We aim to help you get started in Open Source contribution by accepting your pull
 requests for programs containing code for any
-**Data Structures and Algorithms problem only**.
+**Algorithms problem only**.
 
 
 ![image](https://user-images.githubusercontent.com/85362504/194632494-7ba9c699-4ab5-492c-a3b2-9a13f670ed2b.png)
