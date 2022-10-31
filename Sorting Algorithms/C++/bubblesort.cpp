@@ -8,7 +8,7 @@ int main(){
 
     scanf("%d", &num);    
 
-    printf("Please Enter the Value of Elements: ");
+    printf("Please Enter the Elements: \n");
 
     for(x = 0; x < num; x++)
 
